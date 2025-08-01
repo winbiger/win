@@ -9958,7 +9958,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "支",
                 "note": "中国联通",
                 "items": [
-                    { "name": "话费", "price": 98.16 }
+                    { "name": "话费 100元", "price": 98.16 }
                 ]
             }, {
                 "shop": "支",
@@ -10904,7 +10904,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "支",
                 "note": "中国联通",
                 "items": [
-                    { "name": "话费", "price": 23.90 }
+                    { "name": "话费 23.9元", "price": 23.90 }
                 ]
             }, {
                 "shop": "微信",
@@ -12044,7 +12044,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "支",
                 "note": "中国联通",
                 "items": [
-                    { "name": "话费", "price": 200.00 }
+                    { "name": "话费 200元", "price": 200.00 }
                 ]
             }, {
                 "shop": "美团",
@@ -14133,6 +14133,39 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "太二酸菜鱼(上海复地活力城店)",
                 "items": [
                     { "name": "不辣酸菜鱼单人餐", "price": 31.46 }
+                ]
+            }
+        ],
+        "2025-08-01": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
+                "items": [
+                    { "name": "小炒肉+番茄炒蛋+米饭", "price": 18.10 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "中国联通",
+                "items": [
+                    { "name": "话费 100元", "price": 98.12 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "季季山·云南野生菌火锅(复地活力城店)",
+                "items": [
+                    { "name": "古法野生菌汤锅+精选走地鸡+奶香牛肉+爱心午餐肉+高原彩色土豆+山茶茸+黄金针菇+手工蔬菜面+皱叶青豆腐+高山娃娃菜+自助调料+云南特色宝塔红茶+纸巾", "price": 269.00 }
                 ]
             }
         ]
