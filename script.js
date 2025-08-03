@@ -14237,6 +14237,18 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "白鹿原油泼面扯面+煎蛋", "price": 11.38 }
                 ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "都乐进口超甜香蕉700g", "price": 12.50 },
+                    { "name": "肉丝瓜400g", "price": 5.59 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "西贝匠青海牛肉面(康士路店)",
+                "items": [
+                    { "name": "酸菜牛肉拉面", "price": 8.80 }
+                ]
             }
         ]
 
