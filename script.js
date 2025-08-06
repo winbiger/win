@@ -7184,7 +7184,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "2024-12-26": [
             {
                 "shop": "盒马",
-                "note": "盒马NB(航头浦乐汇店)",
+                "note": "盒马NB浦东航头浦乐汇店",
                 "items": [
                     { "name": "冰鲜 黑猪去皮五花肉 350g/盒", "price": 25.90 },
                     { "name": "蒜苗 500g", "price": 5.90 },
@@ -14326,6 +14326,33 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "小菜园新徽菜(上海复地活力城店)",
                 "items": [
                     { "name": "红烧凤爪+米饭", "price": 24.00 }
+                ]
+            }
+        ],
+        "2025-08-06": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "福和面馆(复地活力城店)",
+                "items": [
+                    { "name": "经典虾仁牛肉拌面+加面", "price": 37.80 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "小铜黔·原生态贵州菜(复地活力城店)",
+                "items": [
+                    { "name": "酸辣去骨鸡爪+苗家非遗酸汤鱼+酸菜炒汤圆+生菜+稻花香大米饭*2+多C刺梨汁*2", "price": 142.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "新西兰加力果4粒装600g", "price": 18.82 }
                 ]
             }
         ]
