@@ -12834,7 +12834,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "外星人电解质水500ml", "price": 4.34 },
                     { "name": "娃哈哈纯净水4.5L*4瓶", "price": 27.75 },
                     { "name": "海南沙地胭脂红蜜薯750g", "price": 12.03 },
-                    { "name": "娃哈哈引用纯净水2L/瓶", "price": 0.00 },
+                    { "name": "娃哈哈饮用纯净水2L/瓶", "price": 0.00 },
                     { "name": "洁仕嘉香氛洗衣液100g(雪浸山茶)", "price": 0.00 }
                 ]
             }
@@ -13461,7 +13461,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "盒马鲜生(御桥活力城店)",
                 "items": [
                     { "name": "盒马可生食鸡蛋10枚", "price": 2.98 },
-                    { "name": "农夫山泉引用天然水5L", "price": 3.62 },
+                    { "name": "农夫山泉饮用天然水5L", "price": 3.62 },
                     { "name": "打包费", "price": 1.00 },
                     { "name": "配送费", "price": 3.00 }
                 ]
@@ -14386,6 +14386,42 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "上海老饭店(复地活力城店)",
                 "items": [
                     { "name": "杭椒牛柳+烂糊肉丝+炖蛋+米饭", "price": 19.80 }
+                ]
+            }
+        ],
+        "2025-08-08": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "小铜黔·贵州民间菜(复地活力城店)",
+                "items": [
+                    { "name": "贵州农家辣子鸡+家常土豆丝+米饭", "price": 32.00 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "富硒鸡蛋10枚装400g", "price": 18.59 },
+                    { "name": "国产千禧小番茄500g", "price": 5.41 },
+                    { "name": "瑞士卷蛋糕560g", "price": 19.43 },
+                    { "name": "避风塘鲜肉糯米烧卖240g", "price": 13.56 },
+                    { "name": "可心柔3层纸面巾1包", "price": 0.00 }
                 ]
             }
         ]
