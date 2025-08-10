@@ -13960,7 +13960,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "饿了",
                 "note": "马记永·兰州牛肉面(上海复地活力城店)",
                 "items": [
-                    { "name": "大片牛腱子兰州牛肉面(肉约6-8片)-标准+小份面", "price": 14.10 }
+                    { "name": "大片牛腱子兰州牛肉面(肉约6-8片)-标准/二细+小份面", "price": 14.10 }
                 ]
             }, {
                 "shop": "饿了",
@@ -14479,12 +14479,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "成都你六姐·牛肉冒菜(上海高青路浦乐汇店)",
-                "items": [
-                    { "name": "[吃肉超值]超厚午餐肉套餐+米饭+六姐番茄", "price": 17.60 }
-                ]
-            }, {
-                "shop": "饿了",
                 "note": "小菜园·新徽菜(上海浦东复地活力城店)",
                 "items": [
                     { "name": "茄子烧豆角+米饭套餐", "price": 13.00 }
@@ -14494,6 +14488,12 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "佬肥猫(复地活力城店)",
                 "items": [
                     { "name": "蒜叶永康干", "price": 16.90 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "马记永·兰州牛肉面(上海复地活力城店)",
+                "items": [
+                    { "name": "大片牛腱子兰州牛肉面(肉约6-8片)-标准/一指宽+煎蛋", "price": 21.85 }
                 ]
             }
         ]
