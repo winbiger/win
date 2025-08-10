@@ -632,7 +632,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "PDD",
                 "note": "比比赞食品旗舰店",
                 "items": [
-                    { "name": "比比 豆乳威化饼干 237g*2箱", "price": 11.02 }
+                    { "name": "比比赞豆乳威化饼干 237g*2箱", "price": 11.02 }
                 ]
             }
         ],
@@ -10349,7 +10349,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "小菜园新徽菜(上海周浦万达店)",
+                "note": "小菜园·新徽菜(上海周浦万达店)",
                 "items": [
                     { "name": "园园子经典四人餐(地锅本仔鸡+金汤肥牛+菠萝鸡米花+手工酱萝卜+香锅开心花菜+青桔柠檬汁+红糖发糕(6块)+餐巾纸", "price": 178.75 }
                 ]
@@ -11498,7 +11498,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "小菜园新徽菜(上海复地活力城店)",
+                "note": "小菜园·新徽菜(上海复地活力城店)",
                 "items": [
                     { "name": "米饭*2+地锅本仔鸡+香锅开心花菜+酸梅汤*2+一次性餐具*2", "price": 83.40 }
                 ]
@@ -12817,7 +12817,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "小菜园新徽菜(上海浦东复地活力城店)",
+                "note": "小菜园·新徽菜(上海浦东复地活力城店)",
                 "items": [
                     { "name": "辣椒炒鸡丁+家常土豆丝+紫菜蛋汤+米饭", "price": 21.50 }
                 ]
@@ -13209,7 +13209,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "小菜园新徽菜(上海浦东复地活力城店)",
+                "note": "小菜园·新徽菜(上海浦东复地活力城店)",
                 "items": [
                     { "name": "辣椒小炒肉+西红柿炒鸡蛋+紫菜蛋花汤+米饭", "price": 21.81 }
                 ]
@@ -13488,7 +13488,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "小菜园新徽菜(上海浦东复地活力城店)",
+                "note": "小菜园·新徽菜(上海浦东复地活力城店)",
                 "items": [
                     { "name": "辣椒炒鸡丁+土豆丝+米饭+紫菜蛋花汤", "price": 20.50 }
                 ]
@@ -13846,7 +13846,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "饿了",
                 "note": "成都你六姐·牛肉冒菜(上海宝龙旭辉店)",
                 "items": [
-                    { "name": "[吃肉超值]超厚午餐肉套餐+米饭", "price": 21.10 }
+                    { "name": "[吃肉超值]超厚午餐肉套餐+米饭+六姐牛油", "price": 21.10 }
                 ]
             }, {
                 "shop": "美团",
@@ -14317,13 +14317,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "小菜园新徽菜(上海复地活力城店)",
+                "note": "小菜园·新徽菜(上海浦东复地活力城店)",
                 "items": [
                     { "name": "海鲜炒粉丝", "price": 16.00 }
                 ]
             }, {
                 "shop": "美团",
-                "note": "小菜园新徽菜(上海复地活力城店)",
+                "note": "小菜园·新徽菜(上海浦东复地活力城店)",
                 "items": [
                     { "name": "红烧凤爪+米饭", "price": 24.00 }
                 ]
@@ -14422,6 +14422,78 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "瑞士卷蛋糕560g", "price": 19.43 },
                     { "name": "避风塘鲜肉糯米烧卖240g", "price": 13.56 },
                     { "name": "可心柔3层纸面巾1包", "price": 0.00 }
+                ]
+            }
+        ],
+        "2025-08-09": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "成都你六姐·牛肉冒菜(上海高青路浦乐汇店)",
+                "items": [
+                    { "name": "[吃肉超值]超厚午餐肉套餐+米饭+六姐番茄", "price": 17.60 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "西贝(上海复地活力城店)",
+                "items": [
+                    { "name": "蒙古奶酪饼", "price": 23.60 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "小杨生煎(上海复地活力城店)",
+                "items": [
+                    { "name": "酸汤大虾双拼生煎包+酸辣粉+调料碟-陆景和", "price": 19.00 }
+                ]
+            }, {
+                "shop": "PDD",
+                "note": "EIIO旗舰店",
+                "items": [
+                    { "name": "Eiio清洁泥膜清洁毛孔 三代泥膜100g+袋装泥膜15g+硅胶泥膜铲", "price": 49.00 }
+                ]
+            }
+        ],
+        "2025-08-10": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "成都你六姐·牛肉冒菜(上海高青路浦乐汇店)",
+                "items": [
+                    { "name": "[吃肉超值]超厚午餐肉套餐+米饭+六姐番茄", "price": 17.60 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "小菜园·新徽菜(上海浦东复地活力城店)",
+                "items": [
+                    { "name": "茄子烧豆角+米饭套餐", "price": 13.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "佬肥猫(复地活力城店)",
+                "items": [
+                    { "name": "蒜叶永康干", "price": 16.90 }
                 ]
             }
         ]
