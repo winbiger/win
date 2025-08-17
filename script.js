@@ -14681,12 +14681,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "宜家兼职员工餐 午餐", "price": 3.00 }
                 ]
             }, {
-                "shop": "饿了",
-                "note": "西贝(上海紫荆广场店)",
-                "items": [
-                    { "name": "张爷爷酸汤挂面+肉夹馍+餐具包", "price": 18.08 }
-                ]
-            }, {
                 "shop": "京东",
                 "note": "成都你六姐·牛肉冒菜(上海复地活力城店)",
                 "items": [
@@ -14697,6 +14691,35 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "小菜园·新徽菜(上海浦东复地活力城店)",
                 "items": [
                     { "name": "香锅芸豆丝+香锅花菜+米饭", "price": 15.80 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "旺旺碎冰冰家庭装(三种口味)78ml*8", "price": 5.60 },
+                    { "name": "三麟苏打汽水335ml*12瓶", "price": 19.54 },
+                    { "name": "【无抗】小象富硒可生食鲜鸡蛋6枚300g", "price": 11.36 },
+                    { "name": "MILKDOG每一克0蔗糖8.0希腊酸奶400g", "price": 13.84 }
+                ]
+            }
+        ],
+        "2025-08-17": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "啷儿哥麻辣香锅(复地活力城店)",
+                "items": [
+                    { "name": "爆款小酥肉套餐+米饭+经典微辣+豆泡50g", "price": 15.15 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "小杨生煎(上海复地活力城店)",
+                "items": [
+                    { "name": "猪肉生煎+酸辣粉+可乐", "price": 19.50 }
                 ]
             }
         ]
