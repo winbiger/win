@@ -14800,6 +14800,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "酸菜牛肉面+煎蛋+牛肉炒刀削面+孜然牛肉", "price": 88.00 }
                 ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "【水果菜】旱黄瓜450g", "price": 5.75 },
+                    { "name": "读酥世家提子拿破仑酥150g(3块)", "price": 8.92 },
+                    { "name": "象大厨黑椒牛肉纸皮烧麦330g(6只)", "price": 10.47 },
+                    { "name": "蒸笼头草莓牛乳夹心饼干造型馒头200g(4只)", "price": 11.23 }
+                ]
             }
         ]
 
