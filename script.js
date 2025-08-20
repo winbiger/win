@@ -14841,6 +14841,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "土豆南瓜炖牛腩焖饭+燕麦小米粥+黄米凉糕(4块)", "price": 31.26 }
                 ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "卫龙大面筋106g", "price": 4.90 },
+                    { "name": "FINUTE蒜味虾片82g韩国进口", "price": 9.90 },
+                    { "name": "麻辣王子微麻微辣地道辣条110g(内含6包)", "price": 6.80 },
+                    { "name": "GEMEZ烧烤鸡肉味干脆面组合装30g*3印度尼西亚进口", "price": 9.60 },
+                    { "name": "劲丰博士牛筋味240g(30g*8包)", "price": 9.50 }
+                ]
             }
         ]
 
