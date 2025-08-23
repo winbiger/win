@@ -13846,7 +13846,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "饿了",
                 "note": "成都你六姐·牛肉冒菜(上海宝龙旭辉店)",
                 "items": [
-                    { "name": "[吃肉超值]超厚午餐肉套餐+米饭+六姐牛油", "price": 21.10 }
+                    { "name": "超厚午餐肉套餐+米饭+六姐牛油", "price": 21.10 }
                 ]
             }, {
                 "shop": "美团",
@@ -14442,7 +14442,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "饿了",
                 "note": "成都你六姐·牛肉冒菜(上海高青路浦乐汇店)",
                 "items": [
-                    { "name": "[吃肉超值]超厚午餐肉套餐+米饭+六姐番茄", "price": 17.60 }
+                    { "name": "超厚午餐肉套餐+米饭+六姐番茄", "price": 17.60 }
                 ]
             }, {
                 "shop": "饿了",
@@ -14915,6 +14915,33 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "小菜园·新徽菜(上海浦东复地活力城店)",
                 "items": [
                     { "name": "辣椒炒鸡丁+西红柿炒鸡蛋+米饭", "price": 18.80 }
+                ]
+            }
+        ],
+        "2025-08-23": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "谷田稻香(康桥店)",
+                "items": [
+                    { "name": "五香鸡蛋+招牌牛腩+稻花香瓦锅饭+白灼西兰花+谷田蒸蛋", "price": 27.80 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "成都你六姐·牛肉冒菜(上海复地活力城店)",
+                "items": [
+                    { "name": "六姐番茄+大片肥牛套餐+米饭+虎皮鸡爪50g+麻辣牛肉50g+腐竹50g", "price": 21.14 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "西贝(上海复地活力城店)",
+                "items": [
+                    { "name": "小炒肉草原牛肉单人套餐", "price": 32.20 }
                 ]
             }
         ]
