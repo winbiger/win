@@ -14952,6 +14952,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "手工粗粮大拉皮+锅包肉+猪肉炖粉条+烤牛肉串*3+烤羊肉串*3+东北大米饭*2+东北大冷面+打包盒*3+韭菜鸡蛋虾仁馅水饺", "price": 222.20 }
                 ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "娃哈哈AD钙奶100g*5瓶", "price": 4.50 },
+                    { "name": "东北农嫂黄糯玉米穗1.68kg(6根装)", "price": 29.90 },
+                    { "name": "扁扁可颂面包75g(3片)", "price": 6.90 }
+                ]
             }
         ]
 
