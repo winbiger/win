@@ -14245,7 +14245,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "西贝匠青海牛肉面(康士路店)",
+                "note": "西北匠青海牛肉面(康士路店)",
                 "items": [
                     { "name": "酸菜牛肉拉面", "price": 8.80 }
                 ]
@@ -14985,6 +14985,45 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "小铜黔·贵州民间菜(复地活力城店)",
                 "items": [
                     { "name": "贵州农家辣子鸡+家常土豆丝+米饭", "price": 37.00 }
+                ]
+            }
+        ],
+        "2025-08-26": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 3.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "秦碗会·陕西BiangBiang面(七巧国店)",
+                "items": [
+                    { "name": "招牌BiangBiang面+煎蛋*2+生蒜头", "price": 17.72 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "秦碗会·陕西BiangBiang面(开新里店)",
+                "items": [
+                    { "name": "岐山臊子面+煎蛋*3+糖蒜+加面+生蒜头", "price": 22.60 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "西贝(上海复地活力城店)",
+                "items": [
+                    { "name": "虾酱肉末豆角+辣椒炒肉+米饭+胡辣汤", "price": 34.83 }
                 ]
             }
         ]
