@@ -8399,7 +8399,7 @@ document.addEventListener("DOMContentLoaded", function () {
             }, {
                 "shop": "小象",
                 "items": [
-                    { "name": "怡宝纯净水6L*1", "price": 8.90 }
+                    { "name": "怡宝纯净水 6L*1", "price": 8.90 }
                 ]
             }
         ],
@@ -8942,7 +8942,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "小象",
                 "items": [
                     { "name": "【有机】胡萝卜 300g", "price": 4.85 },
-                    { "name": "怡宝纯净水6L*1", "price": 8.90 },
+                    { "name": "怡宝纯净水 6L*1", "price": 8.90 },
                     { "name": "【供港】黄瓜500g", "price": 7.29 },
                     { "name": "正大叶黄素可生食鲜鸡蛋10枚530g", "price": 12.90 },
                     { "name": "【无抗】小象富硒可生食鲜鸡蛋6枚300g", "price": 8.80 },
@@ -11753,7 +11753,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "小象",
                 "items": [
                     { "name": "秋林里道斯红肠", "price": 13.90 },
-                    { "name": "怡宝纯净水6L", "price": 8.90 },
+                    { "name": "怡宝纯净水 6L", "price": 8.90 },
                     { "name": "MILKDOG每一克4.0有机厚酸奶400g", "price": 8.90 },
                     { "name": "陕西洛川红富士苹果4粒装900g", "price": 17.90 }
                 ]
@@ -11893,7 +11893,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "保萝工坊蔓越莓贝果440g", "price": 7.09 },
                     { "name": "普罗旺斯番茄500g", "price": 6.79 },
-                    { "name": "怡宝纯净水6L", "price": 8.90 },
+                    { "name": "怡宝纯净水 6L", "price": 8.90 },
                     { "name": "良芯匠人火腿肉蛋堡240g", "price": 9.90 },
                     { "name": "良芯匠人手工小笼包400g", "price": 19.90 },
                     { "name": "梅林午餐肉198g", "price": 12.90 },
@@ -11969,7 +11969,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "魔芋素毛肚麻酱味360g", "price": 16.50 },
                     { "name": "软糯紫薯500g", "price": 11.90 },
-                    { "name": "怡宝纯净水6L", "price": 8.90 },
+                    { "name": "怡宝纯净水 6L", "price": 8.90 },
                     { "name": "正大可生食鲜鸡蛋12枚装", "price": 12.93 },
                     { "name": "参半美白牙膏200g", "price": 0.00 }
                 ]
@@ -12005,7 +12005,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "有豆志冰霜绿豆沙1.14kg", "price": 5.55 },
                     { "name": "蜜宝红心火龙果3个1kg", "price": 13.53 },
-                    { "name": "怡宝纯净水6L*3", "price": 23.79 },
+                    { "name": "怡宝纯净水 6L*3", "price": 23.79 },
                     { "name": "进口有机香蕉650g", "price": 12.98 },
                     { "name": "参半美白牙膏200g", "price": 0.00 }
                 ]
@@ -12232,7 +12232,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "康师傅红烧牛肉面113g/桶*2", "price": 9.24 },
                     { "name": "八喜六合一冰淇淋360g/盒", "price": 27.91 },
                     { "name": "优诺原味希腊酸奶480g", "price": 23.24 },
-                    { "name": "怡宝纯净水6L*3", "price": 23.81 },
+                    { "name": "怡宝纯净水 6L*3", "price": 23.81 },
                     { "name": "可心柔3层纸面巾1包", "price": 0.00 }
                 ]
             }
@@ -12433,7 +12433,7 @@ document.addEventListener("DOMContentLoaded", function () {
             }, {
                 "shop": "叮咚",
                 "items": [
-                    { "name": "怡宝纯净水6L*3", "price": 25.35 },
+                    { "name": "怡宝纯净水 6L*3", "price": 25.35 },
                     { "name": "德亚高钙纯牛奶1L", "price": 12.24 },
                     { "name": "澳洲谷饲上脑牛肉片150g", "price": 18.91 },
                     { "name": "安买牙线棒50支装", "price": 0.00 }
@@ -12659,7 +12659,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "小象",
                 "items": [
                     { "name": "胭脂红蜜薯750g", "price": 10.40 },
-                    { "name": "怡宝纯净水6L", "price": 8.50 },
+                    { "name": "怡宝纯净水 6L", "price": 8.50 },
                     { "name": "佳农进口香甜蕉700g", "price": 9.83 },
                     { "name": "娃哈哈饮用纯净水5.5L", "price": 8.12 },
                     { "name": "[无抗]小象可生食鲜鸡蛋20枚1kg", "price": 18.99 },
@@ -12742,7 +12742,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "小象",
                 "items": [
                     { "name": "麻辣王子微麻微辣地道辣条110g(内含6包)", "price": 6.80 },
-                    { "name": "怡宝纯净水6L", "price": 8.90 },
+                    { "name": "怡宝纯净水 6L", "price": 8.90 },
                     { "name": "盐津铺子大魔王魔芋素毛肚六必居麻酱味360g", "price": 15.93 },
                     { "name": "卫龙多彩混合装亲嘴烧300g(内含25小袋)", "price": 13.90 },
                     { "name": "洁仕嘉香氛洗衣液100g(雪浸山茶)", "price": 0.00 }
@@ -13139,7 +13139,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "双汇马可波罗特级火腿肠50g*5根", "price": 11.26 },
                     { "name": "双汇鱼肉肠50g*5根", "price": 9.45 },
-                    { "name": "怡宝纯净水6L", "price": 8.50 },
+                    { "name": "怡宝纯净水 6L", "price": 8.50 },
                     { "name": "[正宗京味]象大厨老北京蒜肠195g", "price": 8.40 },
                     { "name": "[无抗]小象可生食鲜鸡蛋20枚1kg", "price": 16.99 },
                     { "name": "东北农嫂黄糯玉米穗1.68kg(6根装)", "price": 28.50 }
@@ -13261,7 +13261,7 @@ document.addEventListener("DOMContentLoaded", function () {
             }, {
                 "shop": "小象",
                 "items": [
-                    { "name": "怡宝纯净水6L", "price": 8.90 }
+                    { "name": "怡宝纯净水 6L", "price": 8.90 }
                 ]
             }
         ],
@@ -13299,14 +13299,14 @@ document.addEventListener("DOMContentLoaded", function () {
             }, {
                 "shop": "叮咚",
                 "items": [
-                    { "name": "怡宝纯净水6L*3", "price": 25.49 }
+                    { "name": "怡宝纯净水 6L*3", "price": 25.49 }
                 ]
             }, {
                 "shop": "小象",
                 "items": [
                     { "name": "卫龙大面筋106g", "price": 4.90 },
                     { "name": "每日鲜语3.6g蛋白质高钙鲜牛奶950ml", "price": 15.90 },
-                    { "name": "怡宝纯净水6L", "price": 8.90 },
+                    { "name": "怡宝纯净水 6L", "price": 8.90 },
                     { "name": "劲丰博士牛筋味240g(30g*8包)", "price": 9.90 }
                 ]
             }
@@ -13707,7 +13707,7 @@ document.addEventListener("DOMContentLoaded", function () {
             }, {
                 "shop": "小象",
                 "items": [
-                    { "name": "怡宝纯净水6L", "price": 7.90 },
+                    { "name": "怡宝纯净水 6L", "price": 7.90 },
                     { "name": "【无抗】可生食鲜鸡蛋20枚1kg", "price": 15.80 }
                 ]
             }, {
@@ -14065,7 +14065,7 @@ document.addEventListener("DOMContentLoaded", function () {
             }, {
                 "shop": "小象",
                 "items": [
-                    { "name": "怡宝纯净水6L", "price": 8.90 },
+                    { "name": "怡宝纯净水 6L", "price": 8.90 },
                     { "name": "[无抗]DHA叶黄素鲜鸡蛋10枚500g", "price": 12.60 }
                 ]
             }
@@ -14185,7 +14185,7 @@ document.addEventListener("DOMContentLoaded", function () {
             }, {
                 "shop": "叮咚",
                 "items": [
-                    { "name": "怡宝纯净水6L*3桶", "price": 18.30 },
+                    { "name": "怡宝纯净水 6L*3桶", "price": 18.30 },
                     { "name": "湘佳鸡小腿430g", "price": 19.22 },
                     { "name": "正大可生食鲜鸡蛋12枚装", "price": 9.98 },
                     { "name": "洁柔3层抽纸100抽*1包", "price": 0.00 },
@@ -14568,7 +14568,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "日清香辣牛肉味杯面76g*2", "price": 11.12 },
                     { "name": "黑钻世家黑猪火腿肠300g", "price": 18.75 },
                     { "name": "保萝工坊蔓越莓贝果440g", "price": 7.34 },
-                    { "name": "怡宝纯净水6L*3", "price": 24.03 },
+                    { "name": "怡宝纯净水 6L*3", "price": 24.03 },
                     { "name": "巴黎含气矿泉水330ml*4", "price": 21.52 },
                     { "name": "可心柔3层纸面巾1包", "price": 0.00 }
                 ]
@@ -15441,6 +15441,116 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "啷儿哥麻辣香锅(复地活力城店)",
                 "items": [
                     { "name": "爆款小酥肉套餐+米饭+孜然微辣", "price": 17.87 }
+                ]
+            }, {
+                "shop": "神州",
+                "note": "神州租车(御桥宜家家居自助点)",
+                "items": [
+                    { "name": "大众迈腾 9月6日10:30-9月7日10:30 沪牌", "price": 448.00 }
+                ]
+            }
+        ],
+        "2025-09-06": [
+            {
+                "shop": "支",
+                "note": "京穆聚红烧牛肉面(上海康恒路店)",
+                "items": [
+                    { "name": "牛肉刀削面*2+煎蛋*2", "price": 36.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "上海天文馆(上海科技馆分馆)",
+                "items": [
+                    { "name": "成人票*2", "price": 60.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "星空之境海绵公园停车场",
+                "items": [
+                    { "name": "停车时长2小时25分", "price": 7.50 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "楼兰新疆主题餐厅(港城新天地店)",
+                "items": [
+                    { "name": "楼兰经典大盘鸡+和田架子肉(4根)+干锅手撕包菜=楼兰羊肉抓饭+新疆奶茶1壶", "price": 198.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "临港数字大厦停车场",
+                "items": [
+                    { "name": "停车时长1小时36分", "price": 5.00 }
+                ]
+            }, {
+                "shop": "去哪",
+                "note": "如家精选酒店(上海滴水湖天文馆店)",
+                "items": [
+                    { "name": "双床房1间", "price": 282.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "茶百道(上海临港港城广场店)",
+                "items": [
+                    { "name": "杨枝甘露-大杯", "price": 13.50 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "爷爷不泡茶(临港滴水湖店)",
+                "items": [
+                    { "name": "荔枝冰酿-大杯", "price": 15.35 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "洁柔京东自营旗舰店",
+                "items": [
+                    { "name": "洁柔有芯卷纸 4层200克*10卷", "price": 14.59 }
+                ]
+            }
+        ],
+        "2025-09-07": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "永和豆浆(南汇新城滴水湖店)",
+                "items": [
+                    { "name": "甜豆浆+茶叶蛋*2+一个肉包+一个菜包+皮蛋瘦肉粥", "price": 26.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "时代华联超市(南汇新城店)",
+                "items": [
+                    { "name": "百岁山饮用天然矿泉水", "price": 3.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "中国石油加油站(康桥站)",
+                "items": [
+                    { "name": "15.75升95号车用汽油", "price": 118.59 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "秦碗会·陕西BiangBiang面(复地活力城店)",
+                "items": [
+                    { "name": "白鹿原油泼面+加面+草原羊肉串*6+腊汁肉夹馍+煎蛋", "price": 82.90 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "刘文祥麻辣烫(康士路店)",
+                "items": [
+                    { "name": "东北老式大碗麻辣烫+微辣+手打牛筋丸*2", "price": 17.04 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "釜山88车厘番茄500g", "price": 8.90 },
+                    { "name": "巴黎含气矿泉水330ml*4", "price": 22.80 },
+                    { "name": "怡宝纯净水 6L", "price": 8.90 },
+                    { "name": "可心柔3层纸面巾1包", "price": 0.00 }
                 ]
             }
         ]
