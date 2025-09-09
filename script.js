@@ -15556,6 +15556,12 @@ document.addEventListener("DOMContentLoaded", function () {
         ],
         "2025-09-08": [
             {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
                 "shop": "饿了",
                 "note": "刘文祥麻辣烫(康士路店)",
                 "items": [
