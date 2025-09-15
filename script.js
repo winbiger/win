@@ -14235,7 +14235,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "饿了",
                 "note": "秦碗会·陕西BiangBiang面(开新里店)",
                 "items": [
-                    { "name": "白鹿原油泼面扯面+煎蛋", "price": 11.38 }
+                    { "name": "白鹿原油泼面-扯面+煎蛋", "price": 11.38 }
                 ]
             }, {
                 "shop": "叮咚",
@@ -15819,6 +15819,60 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "叮咚",
                 "items": [
                     { "name": "怡宝纯净水 6L*3", "price": 25.50 }
+                ]
+            }
+        ],
+        "2025-09-14": [
+            {
+                "shop": "饿了",
+                "note": "秦碗会·陕西BiangBiang面(开新里店)",
+                "items": [
+                    { "name": "白鹿原油泼面-拉条+煎蛋+加面", "price": 12.38 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "刘文祥麻辣烫(康士路店)",
+                "items": [
+                    { "name": "【精选88选12】随意搭配套餐+点辣+娃哈哈水", "price": 19.54 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "关东小磨东北菜(新达汇三林店)",
+                "items": [
+                    { "name": "炝拌酸辣土豆丝+酱炒土鸡蛋+东北大米饭", "price": 32.00 }
+                ]
+            }
+        ],
+        "2025-09-15": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "兰德香上海眉州支路店",
+                "items": [
+                    { "name": "牛肉刀削面+煎鸡蛋", "price": 17.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "关东小磨东北菜(新达汇三林店)",
+                "items": [
+                    { "name": "小鸡炖榛蘑+东北大米饭", "price": 61.60 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "新发现(上海复地活力城店)",
+                "items": [
+                    { "name": "辣椒小炒肉+米饭", "price": 22.60 }
                 ]
             }
         ]
